@@ -1,5 +1,9 @@
 # Last Lantern
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/afrzh11/makefun-best-game/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/afrzh11/makefun-best-game/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 **Keep the last light burning. Ten waves of night stand between you and dawn.**
 
 A complete, original arcade defense game that runs in a desktop browser from
@@ -47,3 +51,14 @@ all ten waves until dawn breaks.
   and game over.
 
 Made for make.fun's "Make the best game" bounty. Referral code: `00whd2w5`.
+
+## Run it
+
+```sh
+node serve.ts
+# open http://localhost:8080 — or open game/index.html directly
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=00whd2w5&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
